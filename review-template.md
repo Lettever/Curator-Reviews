@@ -18,6 +18,6 @@
    - Notes/Tips:
 
 ## Final Verdict
-- **Fun Factor:** X/10
-- **Achievement Difficulty:** X/10
+- **Fun Factor:**
+- **Achievement Difficulty:**
 - **Recommend for Completionists?**

@@ -1,0 +1,1 @@
+A repo for my reviews on games that I have either completed or wanted to complete but didn't for whatever reason.

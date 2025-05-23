@@ -7,6 +7,15 @@
 ## Review
 
 ## Notable Achievements
+1. **[Achievement Name]**
+   - Description:
+   - How to unlock:
+   - Notes/Tips:
+
+2. **[Another Achievement Name]**
+   - Description:
+   - How to unlock:
+   - Notes/Tips:
 
 ## Final Verdict
 - **Fun Factor:** X/10
